@@ -1,5 +1,5 @@
 # **BİLİMSEL ARAŞTIRMA YÖNTEMLERİ** 
-<img src="https://raw.githubusercontent.com/mertcank1/Bilimsel-Arastirma-Yontemleri/refs/heads/main/support-research-doctor.gif" alt="drawing" width="500"/> 
+<img src="https://raw.githubusercontent.com/mertcank1/Bilimsel-Arastirma-Yontemleri/refs/heads/main/support-research-doctor.gif" alt="drawing" width="300"/> 
 
 $\textcolor{blue}{\textbf{Life is Blue}}$
 
